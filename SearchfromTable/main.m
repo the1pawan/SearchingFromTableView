@@ -2,7 +2,7 @@
 //  main.m
 //  SearchingDemo
 //
-//  Created by Shreekant Pawar on 30/10/12.
+//  Created by Mangesh , Pawan , Suniket on 30/10/12.
 //  Copyright (c) 2012 shreekant@farasbee.com. All rights reserved.
 //
 
